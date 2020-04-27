@@ -1,11 +1,11 @@
 # MomentumInvestingSpringCloud
 基于SpringCloud微服务框架的趋势投资项目
 
-##趋势投资的概念
+## 趋势投资的概念
 
 趋势投资是量化投资技术中的一种
 
-##本项目微服务
+## 本项目微服务
 
 eureka-server						8761
 
@@ -24,7 +24,7 @@ trend-trading-backtest-view			8041,8042,8043
 trend-trading-backtest-service		8051,8052,8053
 
 
-##用到的技术
+## 用到的技术
 
 1. Java
 
